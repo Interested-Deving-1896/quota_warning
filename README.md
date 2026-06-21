@@ -1,23 +1,75 @@
-<!--
-  - SPDX-FileCopyrightText: 201 Nextcloud GmbH and Nextcloud contributors
-  - SPDX-License-Identifier: AGPL-3.0-or-later
--->
-# ❗💾 Quota warning
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# quota_warning
 
-[![REUSE status](https://api.reuse.software/badge/github.com/nextcloud/quota_warning)](https://api.reuse.software/info/github.com/nextcloud/quota_warning)
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/quota_warning)
 
-This app sends notifications to users when they reached 85, 90 and 95% of their quota (checked once a day).
-In addition, an email can be sent to the users. The three percentages can be changed in the admin settings.
-It is also possible to have a link in the email and the notification for upsell options.
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-### Notification
+## Architecture
 
-> ![Notification](docs/notification.png)
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-### Email
+## Install
 
-> ![Email](docs/email.png)
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-### Admin settings
+```bash
+git clone https://github.com/Interested-Deving-1896/quota_warning.git
+cd quota_warning
+```
 
-> ![Settings](docs/admin-settings.png)
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/quota_warning`](https://github.com/Interested-Deving-1896/quota_warning) and mirrored through:
+
+```
+Interested-Deving-1896/quota_warning  ──►  OpenOS-Project-OSP/quota_warning  ──►  OpenOS-Project-Ecosystem-OOC/quota_warning
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[AGPL-3.0](https://github.com/Interested-Deving-1896/quota_warning/blob/main/COPYING) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
